@@ -1,0 +1,79 @@
+
+/* COMPONENTS */
+
+/* Navbar */
+
+.nasa-logo {
+  max-width: 50px;
+}
+
+/* Header */
+
+.bold{
+  font-weight: bold;
+  color: rgb(218, 218, 218);
+}
+
+.link {
+  font-weight: normal;
+}
+
+/* Searcher */
+
+.date {
+  flex: 0 0 0%;
+}
+
+.input-date {
+  box-shadow: rgb(116 116 116 / 44%) 0px 8px 24px;
+}
+
+/* Card */
+
+.picture-day {
+  max-width: 100%;
+}
+
+.fot {
+  flex: 0 0 0%;
+}
+
+.autor {
+  padding: 0;
+}
+
+.autor {
+  font-size: 17px;
+}
+
+.explanation {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+/* Globales */
+
+p {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  margin: 0;
+}
+
+.card {
+  background-color: transparent;
+}
+
+/* Quitar logo a input date */
+
+/* input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+} */

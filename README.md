@@ -3,19 +3,19 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge-🧾)
-  - [NASA APIs](#nasa-apis-🔗)
-  - [How to interact (website)](#how-to-interact-with-he-website-💻)
-  - [Screenshot](#screenshot-📷)
-  - [Links](#links-🔗)
-- [My process](#my-process-👷‍♂️)
-  - [Built with](#built-with-🚧)
-  - [Skills](#skills-🤨)
-- [Author](#author-💻--🎭)
+  - [The challenge](#the-challenge)
+  - [NASA APIs](#nasa-apis)
+  - [How to interact (website)](#how-to-interact-with-he-website)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Skills](#skills)
+- [Author](#author)
 
 ## Overview
 
-### The challenge 🧾
+### The challenge
 
 1. Create a **functional React page** where the user can consult the NASA Astronomy Picture of the Day, by consuming the "NASA APIs"
 
@@ -34,11 +34,11 @@
     - Photographer's name
     - Description
 
-### NASA APIs 🔗
+### NASA APIs
 
 - [Overview](https://api.nasa.gov/)
 
-### How to interact with he website 💻
+### How to interact with he website
 
 1. Entering the page you will see all the sections that have been already mentioned in the challenge description.
 
@@ -51,7 +51,7 @@
     - If you introduce any other date, the last section will be refresh with the corresponding info of the NASA Astronomy Picture of the Day of it.
     * The selection is restricted from today (current date) backwards (previous dates)
 
-### Screenshot 📷
+### Screenshot
 
 1. **Entering the page**
 ![](./src/assets/screenshots/Entering-the-page.png)
@@ -59,14 +59,14 @@
 2. **Date search (example)**
 ![](./src/assets/screenshots/Date-search.png)
 
-### Links 🔗
+### Links
 
 - GitHub Repository: [react-nasa-apod-github](https://github.com/Alelsito/react-nasa-apod)
 - Live Site URL(Netlify): [react-ntl-nasa-apod-netlify](https://react-ntl-nasa-apod.netlify.app/)
 
-## My process 👷‍♂️
+## My process
 
-### Built with 🚧
+### Built with
 
 - HTML
 - JS
@@ -76,7 +76,7 @@
 - [Bootswatch](https://bootswatch.com/) - For styles
 - [Cdnjs](https://cdnjs.com/libraries/bootswatch) - To use Bootswatch
 
-### Skills 🤨
+### Skills
 
 - React library
 - React Hooks:
@@ -88,6 +88,6 @@
 - [npm](https://www.npmjs.com/)
 - Handling forms and events
 
-## Author 💻 || 🎭
+## Author
 
 - Github - [@Alelsito](https://github.com/Alelsito)

@@ -1,4 +1,4 @@
-# React-Nasa-APOD (NASA Astronomy Picture of the Day) 🛰
+# React-Nasa-APOD (NASA Astronomy Picture of the Day) 🪐🛰🪐
 
 ## Table of contents
 
@@ -17,16 +17,16 @@
 
 ### The challenge
 
-1. Create a **functional React page** where the user can consult the NASA Astronomy Picture of the Day, by consuming the "NASA APIs"
+1. Create a **functional React page** where the user can consult the NASA Astronomy Picture of the Day, by consuming the "NASA APIs".
 
-2. The page should have first section with the NASA logo and the title "NASA Astronomy Picture of the Day"
+2. The page should have first section with the NASA logo and the title "NASA Astronomy Picture of the Day".
 
 3. A second section under the first one should have the next information:
     - Desarollado por (Develop by:)
     - NASA APIs link
 
-4. A third section under the last one should be a searcher (date input) that allows to select the date of the NASA Astronomy Picture of the Day the user want to visualize
-    - The selection must be restricted from today (current date) backwards (previous dates)
+4. A third section under the last one should be a searcher (date input) that allows to select the date of the NASA Astronomy Picture of the Day the user want to visualize.
+    - The selection must be restricted from today (current date) backwards (previous dates).
 
 5. The last section should contain:
     - Name of the selected NASA Astronomy Picture of the Day (current day when entering the page)
@@ -48,7 +48,7 @@
 
 4. In the third section you will visualize a date input, without introducing any date, you will se the last section of the page, wich contains the name of the NASA Astronomy Picture of the Day (*current date*), the image of it, the photographer's name and the description.
 
-    - If you introduce any other date, the last section will be refresh with the corresponding info of the NASA Astronomy Picture of the Day of it.
+    - If you introduce any other date, the last section will be refresh with the corresponding info of the NASA Astronomy Picture of the Day of it
     * The selection is restricted from today (current date) backwards (previous dates)
 
 ### Screenshot
@@ -78,12 +78,12 @@
 
 ### Skills
 
+- APIs
+- [Axios](https://axios-http.com/docs/intro)
 - React library
 - React Hooks:
     - [useState](https://reactjs.org/docs/hooks-state.html)
     - [useEffect](https://reactjs.org/docs/hooks-effect.html)
-- APIs
-- [Axios](https://axios-http.com/docs/intro)
 - [NodeJS](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
 - Handling forms and events
@@ -91,3 +91,4 @@
 ## Author
 
 - Github - [@Alelsito](https://github.com/Alelsito)
+- LinkdIn - [Hugo Alejandro López Blanco](https://www.linkedin.com/in/hugolopezblanco/)
